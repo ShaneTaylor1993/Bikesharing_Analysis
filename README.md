@@ -12,6 +12,6 @@ The purpose of this analysis was to examine bike-sharing data in New York to det
 There were 2,344,224 trips taken during the month of August.
 81.07% of trips were taken by subscribers and 18.93% were taken by non-subscribers.
 
-![Customer Type](./resources/images/Customer_Type.png)
+![Customer Type](./Resources/Images/Customer_Type.png)
 
 
