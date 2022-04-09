@@ -37,7 +37,7 @@ Thursdays between 5pm and 6pm are the most busy.
 ### Trips by Gender by Weekday per Hours
 The male to female riding ratio is 3:1 on Thursdays between 5pm and 8pm.
 
-![Trips by Gender by Weekday per Hours](./Resources/Images/Trips_by_Gender.png)
+![Trips by Gender by Weekday per Hours](./Resources/Images/Trips_By_Gender.png)
 
 ## Summary
 In this analysis the following were discovered:
